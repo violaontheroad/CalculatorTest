@@ -1,0 +1,15 @@
+/home/violaontheroad/CSharp/Calculator/bin/Debug/net6.0/Calculator
+/home/violaontheroad/CSharp/Calculator/bin/Debug/net6.0/Calculator.deps.json
+/home/violaontheroad/CSharp/Calculator/bin/Debug/net6.0/Calculator.runtimeconfig.json
+/home/violaontheroad/CSharp/Calculator/bin/Debug/net6.0/Calculator.dll
+/home/violaontheroad/CSharp/Calculator/bin/Debug/net6.0/Calculator.pdb
+/home/violaontheroad/CSharp/Calculator/obj/Debug/net6.0/Calculator.csproj.AssemblyReference.cache
+/home/violaontheroad/CSharp/Calculator/obj/Debug/net6.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/violaontheroad/CSharp/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfoInputs.cache
+/home/violaontheroad/CSharp/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfo.cs
+/home/violaontheroad/CSharp/Calculator/obj/Debug/net6.0/Calculator.csproj.CoreCompileInputs.cache
+/home/violaontheroad/CSharp/Calculator/obj/Debug/net6.0/Calculator.dll
+/home/violaontheroad/CSharp/Calculator/obj/Debug/net6.0/refint/Calculator.dll
+/home/violaontheroad/CSharp/Calculator/obj/Debug/net6.0/Calculator.pdb
+/home/violaontheroad/CSharp/Calculator/obj/Debug/net6.0/Calculator.genruntimeconfig.cache
+/home/violaontheroad/CSharp/Calculator/obj/Debug/net6.0/ref/Calculator.dll
