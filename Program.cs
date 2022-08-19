@@ -101,4 +101,5 @@ static void Multiplicacao ()
         Console.WriteLine("O resultado da Multiplicação é: " + result);
         Console.ReadKey();
         Menu();
+        Console.WriteLine("Testando o git");
     }
